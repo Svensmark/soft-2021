@@ -1,0 +1,7 @@
+Perfomance Testing
+Stress Testing
+	Negative Testing
+Security Testing
+External User testing
+	Qualified and Unqualified (Monkey test) user tests
+System og Unit Testing
